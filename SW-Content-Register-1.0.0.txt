@@ -1,0 +1,22 @@
+NXP Software Content Register
+
+Package:                   an-lpc_uart_server
+
+Version:                   1.0.0
+Outgoing License:          GPL-2.0+
+License File:              LICENSE
+Description and comments:  This demo code implements a multi-TTY expansion solution based on LPC54000 series.
+Release Location:          https://github.com/nxp-appcodehub/an-lpc_uart_server
+Origin:                    NXP (GPL-2.0+)
+                           dfu-util - "Tormod Volden" (GPL-2.0+) - https://dfu-util.sourceforge.net/
+
+dfu-util                   Name: dfu-util                                       
+                           Version: 0.11                                 
+                           Outgoing License: GPL-2.0+              
+                           License File: LICENSE               
+                           Format: binary                               
+                           Description and comments: binary 
+                           Release location：
+						   https://github.com/nxp-appcodehub/an-lpc_uart_server/tree/main/LPC_firmware_download_tool/ARM32/
+  					       https://github.com/nxp-appcodehub/an-lpc_uart_server/tree/main/LPC_firmware_download_tool/ARM64/
+                           Origin: "Tormod Volden" (GPL-2.0+) - https://dfu-util.sourceforge.net/
